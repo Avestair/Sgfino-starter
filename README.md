@@ -1,2 +1,2 @@
 # Sgfino-starter
-starter files for Sagfino project
+فایل های استارت پروژه سقفینو
