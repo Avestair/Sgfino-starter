@@ -1,7 +1,10 @@
+import Button from "./ui/Button";
+
 function App() {
   return (
     <>
-      <p className="font-Vazirmatn">سلام دنیا!</p>
+      <p className="font-Vazirmatn font-bold">سلام دنیا!</p>
+      <Button />
     </>
   );
 }

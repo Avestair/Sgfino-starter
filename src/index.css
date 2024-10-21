@@ -7,6 +7,12 @@
   src: url("../public/Vazirmatn.ttf");
 }
 
+@layer base {
+  :root {
+    @apply font-Vazirmatn;
+  }
+}
+
 :root {
   direction: rtl;
 }
